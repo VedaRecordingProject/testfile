@@ -1,2 +1,2 @@
 # testfile
-s.v.Vedic University
+S.V.Vedic University
